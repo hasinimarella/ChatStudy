@@ -94,7 +94,7 @@ while True:
         break
 
 ```
-silent:
+server:
 ```
 import socket
 s=socket.socket()
